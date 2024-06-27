@@ -1,0 +1,13 @@
+.greet{
+    height: 100px;
+    text-align: center;
+    border:1px solid black;
+}
+
+.heading{
+    text-align: center;
+    margin:40px;
+    font-size: 25px;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
